@@ -6,5 +6,4 @@
 
 [LinkedIn](http://www.linkedin.com/in/saniapervez)
 
-[GitHub](https://github.com/sanipervez)
-
+[GitHub](https://github.com/sanipervez) 
