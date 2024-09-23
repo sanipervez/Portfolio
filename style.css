@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ECE2D8; 
+    color: #4A4A48; 
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #EEEAEA;
+    color: #4A4A48; 
+}
+
+.profile-photo {
+    width: 220px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover; /* photo fits the box without distortion */
+    margin-bottom: 20px;
+    border: 2px solid #BFA697; 
+}
+
+
+.contact-links a {
+    margin: 0 10px;
+    color: #A4968E; 
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.contact-links a:hover {
+    text-decoration: underline;
+}
+
+.projects {
+    padding: 50px 0;
+    background-color: #ECE2D8; 
+}
+
+.projects h2 {
+    text-align: center;
+    margin-bottom: 40px;
+    color: #4A4A48; 
+}
+
+.project {
+    background-color: #EEEAEA; 
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.project h3 {
+    margin-bottom: 10px;
+    color: #F5B26B; 
+}
+
+.project a {
+    color: #FFCA93;
+    text-decoration: none;
+}
+
+.project a:hover {
+    text-decoration: underline;
+}
+
+
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #4A4A48; 
+    color: #FFFFFF; 
+}
