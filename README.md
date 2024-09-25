@@ -1,1 +1,3 @@
-This is a personal portfolio, ctreated using HTML and CSS, showcasing current and completed projects.
+This is a personal portfolio, created using HTML and CSS, showcasing current and completed projects.
+
+Link: https://sanipervez.github.io/Portfolio/
